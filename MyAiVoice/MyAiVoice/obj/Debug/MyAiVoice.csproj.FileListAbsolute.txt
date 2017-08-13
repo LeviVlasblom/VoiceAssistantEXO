@@ -1,0 +1,9 @@
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\bin\Debug\MyAiVoice.exe.config
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\bin\Debug\MyAiVoice.exe
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\bin\Debug\MyAiVoice.pdb
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.csprojResolveAssemblyReference.cache
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.Form1.resources
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.Properties.Resources.resources
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.csproj.GenerateResource.Cache
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.exe
+c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.pdb
