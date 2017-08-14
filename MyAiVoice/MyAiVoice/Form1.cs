@@ -20,9 +20,12 @@ namespace MyAiVoice
         {
             SpeechRecognitionEngine rec = new SpeechRecognitionEngine();
 
+
             list.Add(new String[] { "hello", "who made you" });
 
             Grammar gr = new Grammar(new GrammarBuilder(list));
+
+
 
             try
             {

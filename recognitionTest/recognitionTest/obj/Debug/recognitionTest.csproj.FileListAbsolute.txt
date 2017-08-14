@@ -1,0 +1,6 @@
+c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\bin\Debug\recognitionTest.exe.config
+c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\bin\Debug\recognitionTest.exe
+c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\bin\Debug\recognitionTest.pdb
+c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\obj\Debug\recognitionTest.exe
+c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\obj\Debug\recognitionTest.pdb
+c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\obj\Debug\recognitionTest.csprojResolveAssemblyReference.cache

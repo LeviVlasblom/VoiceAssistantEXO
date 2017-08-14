@@ -7,3 +7,12 @@ c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoic
 c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.csproj.GenerateResource.Cache
 c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.exe
 c:\users\levi\downloads\documents\visual studio 2017\Projects\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.pdb
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\bin\Debug\MyAiVoice.exe.config
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\bin\Debug\MyAiVoice.exe
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\bin\Debug\MyAiVoice.pdb
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.csprojResolveAssemblyReference.cache
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.Form1.resources
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.Properties.Resources.resources
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.csproj.GenerateResource.Cache
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.exe
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\MyAiVoice\MyAiVoice\obj\Debug\MyAiVoice.pdb
