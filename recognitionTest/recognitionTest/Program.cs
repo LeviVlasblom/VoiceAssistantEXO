@@ -65,7 +65,7 @@ namespace recognitionTest
 
             if (r == "shutdown" || r == "Shutdown" )
             {
-                say("Are you sure?");
+                say("Goodbye Master");
                 Console.Clear();
                 Environment.Exit(0);
                 
@@ -83,7 +83,13 @@ namespace recognitionTest
             }
             if (r == "lock computer" || r == "lock PC" || r == "Lock computer" || r == "locke computer" || r == "Locke computer" )
             {
+                say("Locking computer now");
                 System.Diagnostics.Process.Start(@"C:\WINDOWS\system32\rundll32.exe", "user32.dll,LockWorkStation");
+            }
+            if (r == "PC shutdown")
+            {
+                say("Self Destruct!");
+                System.Diagnostics.Process.Start("shutdown", "/s /t 0");
             }
         }
     }
