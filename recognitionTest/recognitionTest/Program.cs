@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Speech.Synthesis;
 using System.Speech.Recognition;
+using System.Diagnostics;
 
 namespace recognitionTest
 {
@@ -49,6 +50,8 @@ namespace recognitionTest
         {
             voice.Speak(h);
         }
+
+        
         // Handle the SpeechRecognized event.
         static void recognizer_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
         {
@@ -58,6 +61,29 @@ namespace recognitionTest
             if (r == "hello")
             {
                 say("hi");
+            }
+
+            if (r == "shutdown" || r == "Shutdown" )
+            {
+                say("Are you sure?");
+                Console.Clear();
+                Environment.Exit(0);
+                
+                
+            }
+            if (r == "who do I love")
+            {
+                say("My master is in love with gittah!");
+            }
+
+            if (r == "show my channel" || r == "Show my channel" )
+            {
+                say("Yes master");
+                Process.Start("chrome.exe", "https://www.youtube.com/channel/UC5kYaT5QtOaN2ScPyXT7Pdg");
+            }
+            if (r == "lock computer" || r == "lock PC" || r == "Lock computer" || r == "locke computer" || r == "Locke computer" )
+            {
+                System.Diagnostics.Process.Start(@"C:\WINDOWS\system32\rundll32.exe", "user32.dll,LockWorkStation");
             }
         }
     }

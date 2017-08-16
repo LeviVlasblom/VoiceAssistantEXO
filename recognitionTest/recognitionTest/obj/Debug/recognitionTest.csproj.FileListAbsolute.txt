@@ -4,3 +4,9 @@ c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\rec
 c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\obj\Debug\recognitionTest.exe
 c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\obj\Debug\recognitionTest.pdb
 c:\users\levi vlasblom\documents\visual studio 2017\Projects\recognitionTest\recognitionTest\obj\Debug\recognitionTest.csprojResolveAssemblyReference.cache
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\recognitionTest\recognitionTest\bin\Debug\recognitionTest.exe.config
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\recognitionTest\recognitionTest\bin\Debug\recognitionTest.exe
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\recognitionTest\recognitionTest\bin\Debug\recognitionTest.pdb
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\recognitionTest\recognitionTest\obj\Debug\recognitionTest.csprojResolveAssemblyReference.cache
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\recognitionTest\recognitionTest\obj\Debug\recognitionTest.exe
+C:\Users\Levi Vlasblom\Desktop\Neon_TM\VoiceAssistantEXO\recognitionTest\recognitionTest\obj\Debug\recognitionTest.pdb
