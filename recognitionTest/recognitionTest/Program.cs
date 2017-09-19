@@ -86,10 +86,14 @@ namespace recognitionTest
                 say("Locking computer now");
                 System.Diagnostics.Process.Start(@"C:\WINDOWS\system32\rundll32.exe", "user32.dll,LockWorkStation");
             }
-            if (r == "PC shutdown")
+            if (r == "PC shutdown" || r == "BC shutdown")
             {
                 say("Self Destruct!");
                 System.Diagnostics.Process.Start("shutdown", "/s /t 0");
+            }
+            if (r == "Kenley" || r == "canny" || r == "Kenny")
+            {
+                say("Kenley happy birthday");
             }
         }
     }
